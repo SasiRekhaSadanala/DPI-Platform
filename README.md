@@ -564,9 +564,3 @@ cmake -B build -DCMAKE_BUILD_TYPE=Asan && cmake --build build
 ## 📜 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/Izhaar-ahmed">Izhaar Ahmed</a></sub>
-</p>
